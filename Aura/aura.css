@@ -1,0 +1,49 @@
+html,
+body,
+
+.navbar {
+    background: white;
+    color: black;
+}
+
+.navbar .brand {
+max-height: 40px;
+overflow: visible;
+padding-top: 0;
+padding-bottom: 0px;
+}
+
+.navbar a.navbar-brand {    
+    padding: 9px 15px 8px;
+}
+
+#search {
+    width: 258%;
+}
+
+#go {
+    background-color: #222;    
+    border: none;     
+}
+
+footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    letter-spacing: 1px;
+    padding: 20px;
+    font-family: georgia, times, serif;
+}
+
+footer a {
+    color: plum;
+}
+
+footer a:visited {
+    color: plum;
+}
+
+footer a:hover {
+    color: darkmagenta;
+    text-decoration: none;
+}
