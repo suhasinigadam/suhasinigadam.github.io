@@ -478,21 +478,22 @@ header.hero .hero-body .hero-text h1 {
 
 header.hero .hero-body .hero-text h1.small {
   color: #ffffff;
-  font-size: 25px;
+  font-size: 28px;
   font-family: helvetica;
   font-weight: 300;
   letter-spacing: -1px;
+  padding-top: 3px;
 }
 
 @media (min-width: 600px) {
   header.hero .hero-body .hero-text h1.small {
-    font-size: 38px;
+    font-size: 28px;
   }
 }
 
 @media (min-width: 768px) {
   header.hero .hero-body .hero-text h1.small {
-    font-size: 46px;
+    font-size: 36px;
   }
 }
 
@@ -3081,3 +3082,4 @@ footer a:hover {
     color: darkmagenta;
     text-decoration: none;
 }
+
