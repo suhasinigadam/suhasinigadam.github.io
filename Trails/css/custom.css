@@ -1,0 +1,105 @@
+#theading {
+    color: black;
+    font-size: 45px;
+}
+
+.navbar-inverse .navbar-header .navbar-brand:hover,
+.navbar-inverse .navbar-header .navbar-brand:focus {
+  color: #F05F40;
+}
+.navbar-inverse .navbar-header .navbar-toggle {
+  font-weight: 700;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+.navbar-inverse .nav > li > a,
+.navbar-inverse .nav > li > a:focus {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 13px;
+}
+.navbar-inverse .nav > li > a:hover,
+.navbar-inverse .nav > li > a:focus:hover {
+  color: #F05F40;
+}
+.navbar-inverse .nav > li.active > a,
+.navbar-inverse .nav > li.active > a:focus {
+  color: #F05F40 !important;
+}
+
+
+header {
+    background-image: none;
+}
+
+#logo {
+    margin-left: 23%;
+    align-content: center;
+}
+
+#titleHead {
+    margin-top: 5%;
+}
+
+.text-faded {
+    font-family: sans-serif;
+    letter-spacing: 0.8px;
+    
+}
+
+
+#carousel-example-generic {
+    background-color: #F05F40;
+    padding-bottom: 2%;
+}
+
+.carousel-indicators > li {
+    background: black;  
+}
+
+.carousel-indicators .active {
+    background: #F05F40;  
+}
+
+#dButton {
+    margin-left: 44%;
+}
+
+
+
+.item {
+    margin-left: 22%;
+    margin-top: 2%;
+}
+
+#portfolio {
+    background-color: #F05F40;
+    color: white;
+}
+
+footer {
+    background: #222;
+    color: white;
+    width: 100%;
+    padding-top: 10px;    
+    font-style: normal;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 1px;    
+    font-family: georgia, times, serif;
+}
+
+footer a {
+    color: plum;
+    text-decoration: none;
+}
+
+footer a:visited {
+    color: plum;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: darkmagenta;
+    text-decoration: none;
+}
